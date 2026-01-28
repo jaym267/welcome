@@ -1,4 +1,6 @@
 # welcome
 This is a repo designed to let students freely play around with git commands
 
-My namw is jayden.
+My name is jayden.
+
+my new branch
